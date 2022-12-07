@@ -29,7 +29,7 @@ async function main() {
           randomSealedSeed();
           break;
         case 6:
-          //   randao();
+          randao();
           break;
         default:
           console.log("Invalid");
